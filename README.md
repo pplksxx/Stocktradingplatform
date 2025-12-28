@@ -54,7 +54,9 @@
 
 ### 中股证券官网直达
 
-  <img src="https://raw.githubusercontent.com/pplksxx/Stocktradingplatform/blob/main/img/zg.jpg" alt="中股证券">
+<a href="https://zg006.cc/#/home" target="_blank">
+  <img src="https://raw.githubusercontent.com/pplksxx/Stocktradingplatform/refs/heads/main/img/zg.jpg" alt="中股证券">
+</a>
 
 [https://zg529.com](https://www.5hua.top)
 
