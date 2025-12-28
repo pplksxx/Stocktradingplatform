@@ -1,4 +1,4 @@
-<img width="73" height="25" alt="image" src="https://github.com/user-attachments/assets/d65b2bf2-db3e-47ec-9609-13ca2a5b83ba" /># 在线配资平台入门：在线配资平台,配资平台怎么选择,配资平台官网地址
+在线配资平台入门：在线配资平台,配资平台怎么选择,配资平台官网地址
 
 ## 一、写在前面
 
